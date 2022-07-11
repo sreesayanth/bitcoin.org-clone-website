@@ -1,0 +1,259 @@
+body {
+    margin: 0%;
+}
+.header1 {
+    margin-top: 0;
+    height: 55px;
+    background-color: #F7931A;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+}
+.header1-text {
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 10px;
+}
+   
+.left-section {
+    display: flex;
+    align-items: center;
+    width: 135px;
+    padding-top: 12px;
+    padding-left: 85px; 
+    display: inline-block;
+
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 0;
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 50px;
+    padding-left: 100px;
+    padding-top: 100px;
+    text-align: center;
+
+
+}
+.orange-button ,
+.b-button {
+    width: 290px;
+    height: 55px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 550;
+    color: #F7931A;
+    background-color: white;
+    border-color: #F7931A;
+    border-width: 1px;
+}
+.orange-button {
+    background-color: #F7931A;
+    border-width: 0;
+    color: white;
+}
+.button1 {
+    padding-left: 220px;
+    padding-top: 60px;
+}
+
+.mx-icon {
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 180px;
+    margin-left: 580px;
+    margin-top: 90px;
+    justify-content:space-between;
+}
+.mx {
+    height: 50px;
+}
+h4 {
+    font-weight: 500;
+    font-family: 'Titillium Web', sans-serif;
+}
+.page2 {
+    background-image: url(icon/overview-bg.svg);
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    background-size: cover;
+}
+.page2-section {
+    display: flex;
+    height: 500px;
+    width: 1000px;
+    flex-direction: column;
+    margin-left: 200px;
+    padding-top: 300px;
+}
+.page2-button {
+    background-color:#090c14;
+    height: 180px;
+    width: 240px;
+    color: white;
+    margin-left: 15px;
+    border-width: 0;
+}
+h3 {
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 26px;
+    font-weight: 500;
+    margin-left: 260px;
+}
+h5 {
+    font-size: 20px;
+    font-weight: 100;
+}
+h6 {
+    font-size: small;
+    font-weight: 100;
+}
+
+.page3-head {
+
+    padding-left: 500px;
+    padding-top: 80px;
+    height: 100%;
+    color: #F7931A;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 30px;
+    font-weight: 5px;
+}
+.essay {
+    font-family: 'Titillium Web', sans-serif;
+    width: 400px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+a {
+    color: #3490E6;
+    cursor: pointer;
+}
+.bullet-point {
+    padding-top: 80px;
+    width: 500px;
+   
+
+}
+.bullet-point-icon {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+   
+}
+.bullet-point-icon img{
+    width: 30px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.right-section {
+    margin-top: 400px;
+    margin-left: 550px;
+}
+.bitcoin-button {
+    background-color: black;
+    color: wheat;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    width: 300px;
+    height: 58px;
+    margin-top: 100px;
+    margin-left: 535px;
+    cursor: pointer;
+    margin-bottom: 100px;
+}
+.page4 {
+    background-color: #13161f
+}
+.page4-bar {
+    background-image: url(icon/footer-bg.svg);
+    height: 200px;
+}
+.btc-logo {
+    margin-top: 100px;
+    margin-left: 600px;
+}
+.support {
+    color: wheat;
+    margin-left: 90px;
+}
+.donate-button {
+    background-color: #F7931A;
+    border-width: 0;
+    color: white;
+    width: 80px;
+    height: 35px;
+    font-size: 15px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.pagr4-left {
+    margin-top: 150px;
+    display: inline-block;
+
+}
+
+.pagr4-right {
+    color: white;
+    display: inline-block;
+    margin-left: 550px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 200;
+}
+ul {
+    list-style: none;
+}
+li {
+    margin-top: 10px;
+}
+.list {
+    margin-left: 20px;
+    display: inline-block;
+}
+.footer {
+    background-color: black;
+    color: white;
+    height: 80px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: medium;
+    font-weight: 100;
+}
+.copyright{
+    padding-left: 60px;
+    padding-top: 35px;
+}
+.prime-icon-sec{
+    display: inline;
+    display: flex;
+    flex-direction: column;
+}
+.prime-icon {
+    display: flex;
+}
+.prim-list {
+    display: inline-block;
+}
